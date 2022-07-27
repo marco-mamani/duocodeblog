@@ -16,14 +16,14 @@ Whether you are a novice or experienced programmer, following these helpful prof
 
 ### 1) Create Software for People, not Just Machines
 
-![Software for People](/static/img/softwareForPeople.jpg "Software for People")
+![Software for People](/img/softwareForPeople.jpg "Software for People")
 
 
 Always ask yourself, "Will another programmer comprehend what I've written?" when developing code. In the future you may be in other coder position. Make sure your identifiers (variable and function names, for example) are consistent across your code to maintain readability. Additionally, while naming your functions, try to keep the length, grammar, and explanatory style consistent. This will aid anyone reading the code and give uniformity..
 
 ### 2) Make Sure Your Code is Memorable
 
-![Memorable Code](/static/img/memorableCode.jpg "Memorable Code")
+![Memorable Code](/img/memorableCode.jpg "Memorable Code")
 
 Create code that you will remember six months or a year from now since this won't be the last piece of code you write. You should give your techniques names that are brief yet evocative of the activity they carry out. Assign meaningful, later-recognizable variables while coding with numbers and strings. Using arbitrary numbers, signs, and symbols can only lead to future dissatisfaction. Keep things plain and uncomplicated.
 
@@ -33,13 +33,13 @@ Choose the appropriate programming language for the project when determining whi
 
 ### 4) If You Get Stuck, Take a Break
 
-![Take a Break](/static/img/takeBreak.jpg "Take a Break")
+![Take a Break](/img/takeBreak.jpg "Take a Break")
 
 Everyone has had those instances when they became so angry and blamed their computer for their problems due to their coding frustration. Take a break from your computer if or when this occurs, and engage in anything else to divert your attention from your programming. Maybe a trip to the restroom or a quick circuit of the block will do. However, it's frequently preferable to focus on a different project or take a half-hour break from work to do something enjoyable. Take another try at the code once you've recovered your energy.
 
 ### 5) Keep Your Methods Maintainable
 
-![Maintainable Code](/static/img/maintainableCode.jpg "Maintainable Code")
+![Maintainable Code](/img/maintainableCode.jpg "Maintainable Code")
 
 One mistake frequently made by new programmers is the use of complicated monster techniques. Limit your methods to a sensible size to save time and hassles while facilitating faster reading and maintenance of your code. If your method is extensive, divide it up into smaller descriptive sections, with each section representing a clearly-abstracted action. In case you don't take aggressive action, the monster approach will prevail. In addition to making the code more legible, maintainable approaches also speed up and simplify code debugging.
 
