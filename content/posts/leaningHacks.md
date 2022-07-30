@@ -39,7 +39,7 @@ Everyone has had those instances when they became so angry and blamed their comp
 
 ### 5) Keep Your Methods Maintainable
 
-![Maintainable Code](/img/maintainableCode.jpg "Maintainable Code")
+![Maintainable Code](/img/maintainableCode.png "Maintainable Code")
 
 One mistake frequently made by new programmers is the use of complicated monster techniques. Limit your methods to a sensible size to save time and hassles while facilitating faster reading and maintenance of your code. If your method is extensive, divide it up into smaller descriptive sections, with each section representing a clearly-abstracted action. In case you don't take aggressive action, the monster approach will prevail. In addition to making the code more legible, maintainable approaches also speed up and simplify code debugging.
 

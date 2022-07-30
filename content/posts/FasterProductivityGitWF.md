@@ -20,14 +20,14 @@ I work on the same web project every day, like many other software engineers do.
 ## GitBash Aliases
 We'll need to create some aliases in order to automate our duties. Shortcuts like bash aliases allow you execute a series of operations with fewer keystrokes. They can have whatever name you like. Having stated that, you are free to use this information in as many projects and procedures as you choose!
 
-We'll need to add the content to a file called .bashrc in order to build our aliases. .bashrc may be found in your home folder or user profile, and its location should be in the format c:/Users/username>/.bashrc.
+We'll need to add the content to a file called .bashrc in order to build our aliases. `.bashrc` may be found in your home folder or user profile, and its location should be in the format `c:/Users/username>/.bashrc.`
 
-So, launch any text editor, and then open the .bashrc file, it should look like this:
+So, launch any text editor, and then open the `.bashrc` file, it should look like this:
 
 ![Git Aliases](/img/gitAliasesBashrc.png "Git Aliases")
 
-So having the .bashrc file as the screen above you should be able to execute the git aliases from a fresh git bash terminal.
+So having the `.bashrc` file as the screen above you should be able to execute the git aliases from a fresh git bash terminal.
 
-![Git Aliases Usage](/img/gitUsages.png "Git Aliases Usage")
+![Git Aliases Usage](/img/gitAliasesBashrc.png "Git Aliases Usage")
 
 You can find more alias usages following this link: https://gist.github.com/mwhite/6887990
