@@ -1,4 +1,4 @@
-baseURL: "https://luxury-gingersnap-189deb.netlify.app"
+baseURL: "https://blogduocode.netlify.app/"
 languageCode: en-us
 title: Blog DuoCode
 theme: PaperMod
@@ -12,8 +12,8 @@ params:
       url: 'https://www.facebook.com/'
     - name: github
       url: 'https://github.com/marco-mamani'
-    - name: twitter
-      url: 'https://www.twitter.com/'
+    - name: linkedin
+      url: 'https://www.linkedin.com/in/marco-mamani/'
   cover:
     linkFullImages: true
 
